@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Domestic Waste Management</title>
+    <link rel="stylesheet" href="tourism.css">
+</head>
+<body>
+    <header>
+        <div id="qwerty">
+        <h1>AAO BHARAT GHUMO</h1>
+        </div>
+
+    <main>
+        <a href="ap.html"><button>Andhra pradesh</button></a><br>
+        <a href="ap.html"><button>uttar pradesh</button></a><br>
+
+        <a href="ap.html"><button>arunachal pradesh</button></a><br>
+        <a href="ap.html"><button>madhya pradesh</button></a><br>
+        <a href="ap.html"><button>Assam</button></a><br>
+        <a href="ap.html"><button>Punjab</button></a><br>
+        <a href="ap.html"><button>Gujrat</button></a><br>
+        <a href="ap.html"><button>Chattisgarh</button></a><br>
+        <a href="ap.html"><button>karnataka</button></a><br>
+        <a href="ap.html"><button>tamil Nadu</button></a><br>
+        <a href="ap.html"><button>bengal</button></a><br>
+        <a href="ap.html"><button>bihar</button></a><br>
+        <a href="ap.html"><button>jharkhand</button></a><br>
+
+
+    </main>
+</body>
